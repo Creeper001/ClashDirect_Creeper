@@ -48,7 +48,7 @@ DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
 DOMAIN-SUFFIX,steamvideo-a.akamaihd.net
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steamserver.net
-
+DOMAIN-SUFFIX,iconify.design
 
 IP-CIDR,45.121.184.0/24,no-resolve
 IP-CIDR,103.10.124.0/23,no-resolve
