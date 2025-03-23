@@ -37,7 +37,7 @@ DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
 # DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
 # DOMAIN-SUFFIX,steamvideo-a.akamaihd.net
 DOMAIN-SUFFIX,steamchina.com
-DOMAIN-SUFFIX,steampowered.com
+#DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,steamserver.net
 
 # DOMAIN-SUFFIX,steam-chat.com
