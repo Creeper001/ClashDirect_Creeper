@@ -1,5 +1,3 @@
-DOMAIN-SUFFIX,mixalpha.synology.me
-DOMAIN-SUFFIX,synology.me
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,mm.bing.net
@@ -27,6 +25,8 @@ DOMAIN-SUFFIX,st.dl.bscstorage.net
 DOMAIN-SUFFIX,st.dl.eccdnx.com
 DOMAIN-SUFFIX,st.dl.pinyuncloud.com
 DOMAIN-SUFFIX,underlords.com
+DOMAIN-SUFFIX,officeapps.live.com
+
 
 #steam下载
 DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
