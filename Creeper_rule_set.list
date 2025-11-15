@@ -27,6 +27,16 @@ DOMAIN-SUFFIX,st.dl.pinyuncloud.com
 DOMAIN-SUFFIX,underlords.com
 DOMAIN-SUFFIX,officeapps.live.com
 
+#Onedrive
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,mesh.com
+DOMAIN-SUFFIX,sfx.ms
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,fabric.io
+DOMAIN-SUFFIX,sharepoint.com
+
 
 #steam下载
 DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
